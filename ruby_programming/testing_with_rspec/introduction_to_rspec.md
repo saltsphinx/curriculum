@@ -20,7 +20,7 @@ At the most basic level, RSpec is a Domain Specific Language written in Ruby, or
 
 At this point, you may be wondering, _Why RSpec? Surely, there are other frameworks out there_, and you'd be right. There are. In fact, at one point, Ruby came bundled with [Test::Unit](https://github.com/test-unit/test-unit) and later [Minitest](https://github.com/seattlerb/minitest) as part of its standard library, the latter of which lives on in Rails. If you tend to be pessimistic (I'm sorry, I meant _realistic_), then the [Wrong](https://github.com/sconover/wrong) testing framework might be your cup of tea. Or perhaps you're hungry and in the mood for something more substantial, in which case a side of [Bacon](https://github.com/chneukirchen/bacon) might be what you need. At the end of the day, it doesn't matter which framework you choose as long as you cultivate your testing skills. RSpec's wider adoption, especially in the Rails community, is certainly reason enough to warrant familiarity with it, but implementing tests should be the end-all and be-all, rather than choosing a particular framework.
 
-But enough [proselytizing](https://www.dictionary.com/browse/proselytizing). Strap your helmet and buckle up; we're going to jump right in.
+But enough [proselytizing](https://www.dictionary.com/browse/proselytizing). Strap on your helmet and buckle up; we're going to jump right in.
 
 #### Installing RSpec
 
